@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fima1716
 - 👀 I’m interested in running marathons, educating
-- 🌱 I’m currently learning JavaScript, TypeScript, Vue, Readt
+- 🌱 I’m currently learning JavaScript, TypeScript, Vue, React
 - 📫 How to reach me: efimt74@gmail.com
 
 <!---
